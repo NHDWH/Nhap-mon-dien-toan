@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="icon" type="image/x-icon" href="DHV.ico">
+  <title>Trường Đại Học Hùng Vương TPHCM</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide|Sofia&effect=fire">
+</head>
+<style>
+	li{
+		list-style-type:none;
+		font-size:50px;
+	}
+	
+	.one{
+		text-decoration:none;
+  		background-color: green;
+		border-style:solid;
+		border-width:2px;
+  		color: white;
+	}
+	td,th {
+  		font-size:50px;
+	}
+	table{
+  		border-style:solid;
+ 		background-image:url('tree.png');
+		background-position:right;
+		background-repeat:no-repeat;
+	}
+	th{
+		font-family:"Audiowide", sans-serif;
+	}
+</style>
+<body>
+	<img src="DHV.png" height:150px;width:150px;>
+	<h1 style="text-shadow: 2px 2px 2px blue;text-align:center";>Trường Đại Học Hùng Vương</h1>
+	<u1>
+		<li> <img src="house.png" width=50px;height=50px;>Địa chỉ: 736 Nguyễn Trãi</li>
+		<li class="website"><img src="webicon.png" width=50px;height=50px;> <a href=https://dhv.edu.vn/">:WWW.dhv.edu.vn</a></li>
+  		<li class="mail"><img src"mailicon.png" width=50px; height=50px;>:Send mail</li>
+		<li class="facebook"><img src="facebookicon.png" width=50px; height=50px;>:Click <a class="one" href="https://www.facebook.com/hungvuonguni">Here</a></li>
+	</u1>
+	<p style="font-size:50px;pxcolor: red;text-align:center;">Nguyễn Huy Đạt</p>
+	<p style="font-size:50px;pxcolor: red;text-align:center;">23035CT2334</p>
+<table>
+<tr>
+	<th class="font-effect-fire">Ý nghĩa ngày Nhà giáo Việt Nam 20/11</th>
+</tr>
+
+<tr>
+	<td> <div>Ngày 20/11 sớm đã trở thành một ngày lễ kỷ niệm nghề giáo truyền thống của Việt Nam. Điều này vô cùng phù hợp với một dân tộc hiếu học và truyền thống tôn sư trọng đạo như Việt Nam.</div></td>
+</tr>
+
+<tr>
+	<td>Ngày 20/11 chính là dịp để thế hệ học sinh thể hiện lòng biết ơn, tri ân sâu sắc đến thầy giáo của mình. Dù đang ngồi hay rời xa ghế nhà trường, cứ đến ngày 20/11, mọi người đều hướng đến thầy cô giáo, gửi những lời chúc, những món quà tốt đẹp đến thầy cô.</td>
+</tr>
+</table>
+<p class="pa">Một ngày lễ kỷ niệm nghề giáo truyền thống</p>
+
+</body>
+</html>
+			
+  

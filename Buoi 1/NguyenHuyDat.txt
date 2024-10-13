@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Nguyen Huy Dat </h1>
+<h2>2305CT2334</h2>
+<h3>datnguyenhuy05@gmail.com</h3>
+<p>0812344849</p>
+
+<a href="https://www.youtube.com/watch?v=l0d9pCtFVnw">Bai Hat Yeu Thich</a>
+
+<p>Quet toi nhe
+<br>
+<img src="qr.png" alt="https:qrcode" width="200" height="170">
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="vi">
+<body style="background-color:#F0FFFF;">
+
+<h1 style="color:#FF3030;font-size:100px;text-align:center;">N<title="" style="color:#4876FF; font-size:50px;">GUYỄN HUY ĐẠT</h1>
+<p style="color:green;text-align:center;">2305CT2334:</p>
+
+<a href="https://hvuh.edu.vn/"> <p style="color:blue; text-align:center">Click to link</p>
+
+<p style="text-align:center"> <img src="https://cdn2.me-qr.com/qr/79430635.png?v=10122023053324388497;" alt="qrcode" width="250" height="220"> </p>
+
+<hr>
+<h1 style="background-color:#97FFFF; text-align:center">Hoc van </h1>
+<p> 2021-2023: Trường Cao Đẳng Lý Tự Trọng </p>
+<p> 2023-nay: DHV </p>
+
+<hr>
+<h1 style="background-color:#00DD00; text-align:center">Trinh Do Game </h1>
+<p>FC Online (FO4): Tinh Anh
+
+<hr>
+<p>Thông tin liên hệ:<br>Địa Chỉ:20/12 Hồ Đắc Di,Phường Tây Thạnh, Quận Tân Phú, Thành phố Hồ Chí Minh<br>Email:datnguyenhuy05@gmail.com<br>Phone:0812344849</p>
+
+</body>
+</html>

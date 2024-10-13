@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border: 2px solid;
+  border-collapse: collapse;
+  border-color: #000080;
+}
+
+th {
+  background-color: #98FB98;
+}
+
+</style>
+<body>
+
+<table style="font-size:25px;">
+<caption style="color:red"> DANH SÁCH SINH VIÊN </caption>
+<tr>
+	<th style="width:350px;height:150px"> HỌ VÀ TÊN </th>
+    <th style="width:250px;"> MSSV </th>
+    <th style="width:250px;"> SDT </th>
+</tr>
+
+<tr>
+	<td> NGUYỄN HUY ĐẠT </td>
+    <td> 2305CT2334 </td>
+    <td> 08123456789 </td>
+</tr>
+
+<tr>
+	<td> TRƯỜNG HÙNG VƯƠNG </td>
+    <td> 2305CT2334 </td>
+    <td STYLE="width:400px;
+    padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;"> Thành lập từ năm 1995, Trường Đại học Hùng Vương TP.HCM là một trong những trường đại học ngoài công lập đầu tiên tại Việt Nam. Tại Trường Đại Học Hùng Vương, người học đóng vai trò trung tâm, phát huy tinh thần chủ động, sự sáng tạo, và khám phá năng lực bản thân. Những giá trị giáo dục toàn diện mà Đại Học Hùng Vương mang lại cho người học có giá trị bền vững theo thời gian. </td>
+</tr>
+
+<tr>
+	<td rowspan="2"> HỌC LỰC </td>
+    <td> Khá </td>
+    <td> Tốt </td>
+</tr>
+<tr>
+	<td> 2023 </td>
+    <td> 2024 </td>
+</tr>
+
+
+</table>
+
+</body>
+</html>
+

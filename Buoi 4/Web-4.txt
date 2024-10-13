@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Xin Moi Vao</title>
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<style>
+body {
+  background-image: url("img_tree.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+  background-attachment: fixed;
+}
+/* unvisited link */
+a.one:link, a.one:visited {
+  color: green;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a.one:hover, a.one:active {
+  color: hotpink;
+  text-decoration: underline;
+  font-size: 150%
+}
+
+a.two:link, a.two:visited {
+  background-color: white;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+/* mouse over link */
+a.two:hover, a.two:active {
+  background-color: yellow;	
+  color: hotpink;
+  text-decoration: none;
+}
+</style>
+</head>
+<body>
+
+<address>
+TRƯỜNG ĐẠI HỌC HÙNG VƯƠNG TPHCM <br>
+Địa chỉ: 736 Nguyễn Trãi, Phường 6, Quận 5 <br>
+Visit to us: 
+<a class ="one" href="https://www.dhv.edu.vn/"title="Welcome to the hell">DHV University<sup><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/RegisteredTM.svg/1200px-RegisteredTM.svg.png" style ="width:20px;height:20px;"> </sup></a>
+
+<a href="https://hvuh.edu.vn/">
+<img src="dhvlogo.png" alt="HTML tutorial" style="width:80px;height:80px;">
+</a> <br>
+Email: <a class="two" href="mailto:tec@dhv.edu.vn">Send email</a>
+</address>
+
+<h1 style="color:red; font-size=200%; text-align:center">NGUYỄN HUY ĐẠT</h1>
+
+</body>
+</html>
+
+
